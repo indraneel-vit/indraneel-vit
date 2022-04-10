@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Indraneel-Parab
+- 👋 Hi, I’m @Indraneel Parab
 - 👀 I’m interested in data analytics, Machine Learning
 - 🌱 I’m currently pursuing B.Tech in VIT, Chennai
 - 💞️ I’m looking to collaborate on new exciting projects in the world of Computer Science
